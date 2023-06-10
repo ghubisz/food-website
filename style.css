@@ -82,6 +82,17 @@ nav ul li a:hover{
     align-items: center;
     gap: 20px;
 }
+.special h1{
+    background-color: #CDA45E;
+    color: #292929;
+    padding: 10px;
+    font-size: 12px;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    position: absolute;
+    left: 850px;
+    top: 550px;
+}
 .special .special-box{
     height: 220px;
     width: 160px;
