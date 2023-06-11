@@ -92,6 +92,7 @@ header nav ul li a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 .container .food-box img{
     height:100px;
@@ -100,7 +101,9 @@ header nav ul li a:hover{
     border-radius: 50%;
     object-fit: cover;
     padding: 5px;
+    
 }
+
 .container .food-box h2{
     color: #CDA45E;
     font-size: 18px;
